@@ -2,7 +2,7 @@
 // Database configuration 
 $dbHost     = "localhost"; 
 $dbUsername = "root"; 
-$dbPassword = "HQRHhfS6-"; 
+$dbPassword = ""; 
 $dbName     = "pagination"; 
  
 // Create database connection 
